@@ -1,0 +1,39 @@
+/*center entire page*/
+.maincontainer{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.pagedescription{
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+/*Table*/
+
+.col-md-3 img{
+    height: 30%;
+    max-height: 75px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.col-md-3 h2{
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.attributes{
+    font-size: 8px;
+    font-style: italic;
+    text-align: center;
+    margin-top: 5%;
+}
